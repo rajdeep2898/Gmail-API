@@ -1,6 +1,6 @@
 # Gmail API
 
-- This sends mail upsin Gmail API
+- This sends mail though Gmail API
 
 # Quick Start 🚀
 
@@ -25,7 +25,7 @@ npm install
 npm run dev
 ```
 
-### Authorize your google Account visit
+### To authorize your google account visit
 
 ```bash
 localhost:8080/api/authorize
