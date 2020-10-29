@@ -1,7 +1,7 @@
 {
-  "name": "Gmail API",
+  "name": "Gmail_API",
   "version": "1.0.0",
-  "description": "RESTful-Email-API sends emails using Gmail REST API and OAuth 2.0 without using client libraries.",
+  "description": "This sends mail though Gmail API.",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
